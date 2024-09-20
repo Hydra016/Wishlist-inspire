@@ -3,7 +3,7 @@
 client_id = "85b8973637779db10ba3311bd042a5b2"
 name = "wishlist-inspire"
 handle = "wishlist-inspire-243"
-application_url = "https://aerospace-traffic-cloudy-sci.trycloudflare.com"
+application_url = "https://dude-reading-reynolds-camera.trycloudflare.com"
 embedded = true
 
 [build]
@@ -17,9 +17,9 @@ scopes = ""
 
 [auth]
 redirect_urls = [
-  "https://aerospace-traffic-cloudy-sci.trycloudflare.com/auth/callback",
-  "https://aerospace-traffic-cloudy-sci.trycloudflare.com/auth/shopify/callback",
-  "https://aerospace-traffic-cloudy-sci.trycloudflare.com/api/auth/callback"
+  "https://dude-reading-reynolds-camera.trycloudflare.com/auth/callback",
+  "https://dude-reading-reynolds-camera.trycloudflare.com/auth/shopify/callback",
+  "https://dude-reading-reynolds-camera.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
